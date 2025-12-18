@@ -1,0 +1,8 @@
+{
+  "name": "TransAI Intelligence Hub",
+  "description": "An advanced AI-powered dashboard for managing and optimizing transport sectors including Aviation, Railways, Maritime, and Logistics. Features real-time AI insights, predictive analytics, image generation, and voice-enabled dispatching.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
